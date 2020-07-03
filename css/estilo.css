@@ -1,0 +1,148 @@
+@font-face{
+	font-family: proxima-nova;
+	src:url(../fonts/proxima-nova.otf);
+}
+.search{
+	margin-top: 20px;
+}
+input{
+	border-style:none
+}
+.pes{
+	border-radius: 10px;
+	background-color: #333333;
+	color: white;
+	padding: 10px 10px;
+}
+.btnpes{
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	background-color: #3bafbe;
+	border-radius: 15px;
+	padding: 10px 10px;
+	border-style:none
+}
+.icones {
+	margin-top: 20px;
+}	
+.icones a{
+	padding: 10px 3px;
+}
+.logo{
+	margin-top: 40px;
+}
+.menu{
+	color: #999999;
+	margin-top: 65px;
+	font-size: 15px;
+	font-family: proxima-nova
+}
+.menu li{
+	list-style: none;
+	display: inline-block;
+	color: 	#999999;
+	padding: 0px 2px;
+}
+.menu a{
+	color: #999999;
+	padding: 0px 10px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.menu a:hover {
+	color: #3bafbe;
+	padding: 0px 10px;
+	text-decoration: none;
+}
+.margembotton{
+	margin-top: 15px;
+	border:1px solid #e2e2e2;
+}
+.slider{
+	margin-top: 80px;
+}
+.slider h1{
+	margin-top: 80px;
+	font-size: 40px;
+}
+.slider p{
+	margin-top: 20px;
+	margin-bottom: 30px;
+	font-size: 16px;
+	color: #999999;
+}
+.slider a{
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	background-color: #3bafbe;
+	border-radius: 10px;
+	padding: 10px 10px;
+}
+.margembottonslide{
+	margin-top: 380px;
+	border:1px solid #e2e2e2;
+}
+.intro{	
+	border-bottom: solid 2px #e2e2e2;
+	padding: 70px 0px;
+}
+.intro h4{
+	margin-top: 30px;
+}
+.intro p{
+	margin-top: 20px;
+	margin-bottom: 30px;
+	color: #999999;
+}
+.intro a{
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	background-color: #3bafbe;
+	border-radius: 10px;
+	padding: 10px 10px;
+}
+.serviços{
+	margin-top: 20px;
+	padding: 10px 0px;
+	margin-bottom: 30px;
+}
+.serviços h4{
+	margin-left: -15px;
+	font-size: 15px;
+	color: #3bafbe;
+}
+.serviços p{
+	margin-left: -15px;
+	font-size: 13px;
+}
+.footer{
+	background-color: #252525;
+	padding: 40px 0px;
+}
+.footer h3{
+	color: white;
+}
+.footer p{
+	color: #999999;
+}
+.footer a{
+	color: #3bafbe;
+}
+.copyright{
+	background-color: black;
+	height: 70px;
+}
+.copyright p{
+	color: white;
+	padding: 20px;
+}
+.footer li{
+	list-style: none;
+	padding: 4px 0px;		
+}
+.footer input{
+	margin-bottom: 18px;	
+}
